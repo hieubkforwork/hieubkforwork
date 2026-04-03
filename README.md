@@ -3,7 +3,9 @@
   <img src="svg/minhhieu.svg" width="1200" alt="trungquandev-official" />
 </a>
 <h2 align="center">📓 My University 📓</h2>
-<span align="center"><img src = "svg/logo.png" width="500"></span>
+<div style="text-align: center;">
+    <img src="svg/logo.png" width="500">
+</div>
 <h3 align="center">HCM University of Technology,VNU-HCM</h3>
 <br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
